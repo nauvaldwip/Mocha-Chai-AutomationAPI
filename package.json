@@ -6,7 +6,7 @@
   },
   "name": "testapi",
   "version": "1.0.0",
-  "description": "Belajar Automation Testing",
+  "description": "Belajar Automation Testing menggunakan Mocha Chai Js",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
